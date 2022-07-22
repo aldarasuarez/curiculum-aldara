@@ -1,0 +1,19 @@
+{
+    "personal": {
+        "datos_personales": {
+            "correo_electronico": "asuamig.sansus3@gmail.com",
+            "numero_telefono": "666666666",
+            "linkedin": "AldaraSuarez",
+            "direccion": "Santiago de Compostela, A Coruña, Galicia"
+        }
+    },
+
+    "idiomas": {
+        "nivel_idiomas":{
+            "galego": "nativo",
+            "castelan": "nativo",
+            "irlandés": "nativo",
+            "inglés": "nativo"
+        }
+    }
+}
